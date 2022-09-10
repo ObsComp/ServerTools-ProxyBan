@@ -14,7 +14,7 @@ If you are still using the old Mod installation location, place it in your main 
 <br>
 Example<br>
 C:\7DaysToDieServers\Dedicated\Mods<br>
-Or
+Or<br>
 ...\7DaysToDieServers\Dedicated\Mods<br>
 <br>
 Start your server<br>
