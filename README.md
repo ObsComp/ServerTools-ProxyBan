@@ -8,8 +8,9 @@ Setup is done through the console using various commands<br>
 help st-pb gives more information on the available console commands<br>
 <br>
 Installation:<br>
-Unpack the latest release<br>
-After unpacking, copy and paste the provided Mods folder to your dedicated server's main installation directory<br>
+Unpack the latest release from the .zip file<br>
+After unpacking, copy and paste the provided Mods folder to your User Data Folder.<br>
+If you are still using the old Mod installation location, place it in your main server directory<br>
 <br>
 Example<br>
 C:\7DaysToDieServers\Dedicated\Mods<br>
