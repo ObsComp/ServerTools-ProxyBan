@@ -13,7 +13,7 @@ After unpacking, copy and paste the provided Mods folder to your User Data Folde
 If you are still using the old Mod installation location, place it in your main server directory<br>
 <br>
 Example<br>
-C:\7DaysToDieServers\Dedicated\Mods<br>
+...\AppData\Roaming\7DaysToDie\Mods<br>
 Or<br>
 ...\7DaysToDieServers\Dedicated\Mods<br>
 <br>
